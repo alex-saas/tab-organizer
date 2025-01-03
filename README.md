@@ -2,6 +2,8 @@
 
 Elevate your browsing experience with [**Tab Organizer**](https://taborganizer.com/), a lightweight Chrome extension designed to simplify your tab management workflow. Perfect for anyone looking to enhance their productivity and web navigation efficiency.
 
+<a href="https://www.producthunt.com/posts/tab-organizer-3?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-tab&#0045;organizer&#0045;3" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=485538&theme=neutral" alt="Tab&#0032;Organizer - Reduce&#0032;tabs&#0032;clutter&#0032;in&#0032;Chrome | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 ---
 
 ## 🛡️ Privacy First
